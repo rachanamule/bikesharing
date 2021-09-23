@@ -4,6 +4,8 @@
 
 NYC Citibike Analysis gives better picture about Number of people using rides based on gender, at what time the rides mostly used, on which days and at what hours the bikes used, total number of rides used.
 
+[Tableau Public Link](https://public.tableau.com/app/profile/rachana.dharangutti5869)
+
 ## Results
 
 * The Rides Used by UserType
